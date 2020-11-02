@@ -1,4 +1,0 @@
-example_id                   | status | run_time        |
----------------------------- | ------ | --------------- |
-./spec/contex_spec.rb[1:1:1] | passed | 0.00048 seconds |
-./spec/contex_spec.rb[1:2:1] | passed | 0.00005 seconds |
