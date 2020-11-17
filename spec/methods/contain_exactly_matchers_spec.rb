@@ -1,6 +1,5 @@
 require 'rspec'
 
-# yang dicek adalah perubahannya atau selisihnya
 RSpec.describe 'contain exactly matcher' do
   subject { [1, 2, 3] }
 
